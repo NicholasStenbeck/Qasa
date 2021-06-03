@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "express": "4",
+    "moment": "^2.29.1",
+    "socket.io": "^4.1.2"
+  }
+}
